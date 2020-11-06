@@ -5,6 +5,9 @@ Python 3
 Google colab Notebook
 
 
+Mnist Dataset Download:
+
+
 
 
 Reference: Make Your Own Neural Network (by Tariq Rashid)
